@@ -1,0 +1,9 @@
+apesplit.sh :split *.ape files into flac tracks
+CopyCover.sh : copy "cover.jpg" into all subdirectories
+flacsplit.sh : split *.flac files into flac tracks
+iso2utf8.sh :convert cue files into utf-8 coding(w/ backups)
+mvcover.sh : NOT WORKING
+README : this README you are reading
+sortfolder.sh : sort files into folders by cue names
+split.sh : split ape/flac (calling apesplit.sh or flacsplit.sh)
+
